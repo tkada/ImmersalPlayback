@@ -16,3 +16,4 @@ Immersal &amp; AR Core Recording and Playback API
 5. Build and Run
 
 ## Document(Japanese)
+https://zenn.dev/tkada/articles/e1a74baf722586
